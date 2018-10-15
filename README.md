@@ -46,7 +46,7 @@ These instructions are as follows
 
 There's a few more that I have omitted. As you can see, this means that SVG supports both *quadratic* and *cubic* curves. So what are they, and what are the differences?
 
-<img height="200" scr="https://raw.githubusercontent.com/xfbs/svgcurves/master/cubic.png" /><img height="200" scr="https://raw.githubusercontent.com/xfbs/svgcurves/master/quadratic.png" />
+<img height="200" src="https://raw.githubusercontent.com/xfbs/svgcurves/master/cubic.png" /><img height="200" src="https://raw.githubusercontent.com/xfbs/svgcurves/master/quadratic.png" />
 
 There are two really good demos for [quadratic][QuadraticCurveDemo] and [cubic][CubicCurveDemo] that illustrate how they work, and the differences between them.
 
