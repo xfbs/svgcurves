@@ -1,0 +1,6 @@
+[package]
+name = "svgpaths"
+version = "0.1.0"
+authors = ["Patrick Elsen <pelsen@xfbs.net>"]
+
+[dependencies]
