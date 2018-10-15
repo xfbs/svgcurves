@@ -3,7 +3,7 @@ extern crate svg;
 use clap::{App, Arg};
 
 fn main() {
-    let args = App::new("SVG paths tool")
+    let args = App::new("SVG curves tool")
         .version("0.1.0")
         .author("Patrick Elsen <pelsen@xfbs.net>")
         .about("Transforms SVG quadratic and cubic (bézier) curves.")
