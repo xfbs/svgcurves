@@ -33,8 +33,8 @@ Z
 
 These instructions are as follows
 
-| Command | Parameters | Meaning |
-| ------- | ---------- | ------- |
+| Command | Meaning |
+| ------- | ------- |
 | M x y | Move to the coodinate (x, y) |
 | L x y | Draw a line from current coordinate to (x, y) |
 | H x | Draw horizontal line to (x, y) where y is current |
@@ -46,8 +46,7 @@ These instructions are as follows
 
 There's a few more that I have omitted. As you can see, this means that SVG supports both *quadratic* and *cubic* curves. So what are they, and what are the differences?
 
-![quadratic curve](quadratic.png)
-![cubic curve](cubic.png)
+<img width="300" scr="quadratic.png" /><img width="300" scr="cubic.png" />
 
 There are two really good demos for [quadratic][QuadraticCurveDemo] and [cubic][CubicCurveDemo] that illustrate how they work, and the differences between them.
 
